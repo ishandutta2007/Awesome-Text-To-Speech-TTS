@@ -58,81 +58,81 @@ Below is a detailed comparison of leading cloud-hosted TTS platforms, sorted by 
 
 ## ⚡ Open-Source GitHub Projects (Sorted by Stars)
 
-Below are top open-source Text-to-Speech models, toolkits, and voice cloning repositories, sorted by **GitHub Star Count (Descending)**.
+Below are top open-source Text-to-Speech models, toolkits, and voice cloning repositories, sorted by **GitHub Stars_Count (Descending)**.
 
-- **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** [![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social&color=white)](https://github.com/RVC-Boss/GPT-SoVITS/stargazers)  
+- **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** [![GitHub_Stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social&color=white)](https://github.com/RVC-Boss/GPT-SoVITS/stargazers)  
   **Powerful Zero-Shot TTS & Voice Cloning** • MIT Licensed  
   Requires as little as **5 seconds of reference audio** for voice cloning. Features zero-shot TTS, cross-lingual voice conversion (English, Japanese, Chinese, Korean, Cantonese), and an intuitive WebUI.
 
-- **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) *(Active Fork: [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS))*  
+- **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub_Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) *(Active Fork: [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS))*  
   **The Legendary Open-Source TTS Toolkit** • MPL-2.0 Licensed  
   Comprehensive library implementing SOTA architectures including **XTTS-v2**, VITS, YourTTS, Bark, and Tacotron2. Supports 1,100+ languages with fine-tuning pipelines.
 
-- **[ChatTTS](https://github.com/2noise/ChatTTS)** [![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers)  
+- **[ChatTTS](https://github.com/2noise/ChatTTS)** [![GitHub_Stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers)  
   **Conversational Speech Synthesis Model** • Open-Source  
   Specifically optimized for conversational tasks such as dialogue, podcasts, and agent responses. Native support for interjections like laughter, pauses, and breath control.
 
-- **[Bark](https://github.com/suno-ai/bark)** [![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
+- **[Bark](https://github.com/suno-ai/bark)** [![GitHub_Stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
   **Transformer-Based Generative Audio & TTS** • MIT Licensed  
   Developed by Suno. Generates highly expressive speech alongside non-verbal communications (giggles, sighs, weeping), ambient sound effects, and simple background music.
 
-- **[Fish-Speech](https://github.com/fishaudio/fish-speech)** [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers)  
+- **[Fish-Speech](https://github.com/fishaudio/fish-speech)** [![GitHub_Stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers)  
   **SOTA Multilingual Dual-AR Foundation Model** • Open-Source  
   Trained on **720,000+ hours** of multilingual speech. Features dual-autoregressive architecture, Firefly-GAN vocoder, **~150ms time-to-first-audio**, and 0.8% WER.
 
-- **[Chatterbox](https://github.com/resemble-ai/chatterbox)** [![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social&color=white)](https://github.com/resemble-ai/chatterbox/stargazers)  
+- **[Chatterbox](https://github.com/resemble-ai/chatterbox)** [![GitHub_Stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social&color=white)](https://github.com/resemble-ai/chatterbox/stargazers)  
   **Permissive Voice Cloning & Paralinguistic TTS** • MIT Licensed  
   Created by Resemble AI. **Chatterbox-Turbo (350M parameters)** offers **sub-200ms latency**, explicit emotion control tags (`[laugh]`, `[cough]`, `[sigh]`), and built-in imperceptible audio watermarking.
 
-- **[CosyVoice2](https://github.com/FunAudioLLM/CosyVoice)** [![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&color=white)](https://github.com/FunAudioLLM/CosyVoice/stargazers)  
+- **[CosyVoice2](https://github.com/FunAudioLLM/CosyVoice)** [![GitHub_Stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&color=white)](https://github.com/FunAudioLLM/CosyVoice/stargazers)  
   **Alibaba's Multi-Lingual Large Voice Generation Engine** • Apache-2.0 Licensed  
   Supports zero-shot voice cloning, cross-lingual synthesis, instruction-following speech generation, and multi-speaker control.
 
-- **[Dia-1.6B](https://github.com/nari-labs/dia)** [![GitHub stars](https://img.shields.io/github/stars/nari-labs/dia?style=social&color=white)](https://github.com/nari-labs/dia/stargazers)  
+- **[Dia-1.6B](https://github.com/nari-labs/dia)** [![GitHub_Stars](https://img.shields.io/github/stars/nari-labs/dia?style=social&color=white)](https://github.com/nari-labs/dia/stargazers)  
   **Dialogal & Multi-Speaker Conversational TTS** • Apache-2.0 Licensed  
   Developed by Nari Labs. The first SOTA open-source model designed specifically for **multi-speaker interactive dialogue synthesis** with turn-taking and emotional nuances.
 
-- **[Sherpa-ONNX](https://github.com/k2-fsa/sherpa-onnx)** [![GitHub stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social&color=white)](https://github.com/k2-fsa/sherpa-onnx/stargazers)  
+- **[Sherpa-ONNX](https://github.com/k2-fsa/sherpa-onnx)** [![GitHub_Stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social&color=white)](https://github.com/k2-fsa/sherpa-onnx/stargazers)  
   **Cross-Platform Offline Speech Recognition & TTS** • Apache-2.0 Licensed  
   Ultra-fast ONNX runtime engine supporting offline TTS for 20+ languages across Android, iOS, Raspberry Pi, Windows, Linux, and macOS.
 
-- **[Sesame CSM-1B](https://github.com/SesameAILabs/csm)** [![GitHub stars](https://img.shields.io/github/stars/SesameAILabs/csm?style=social&color=white)](https://github.com/SesameAILabs/csm/stargazers)  
+- **[Sesame CSM-1B](https://github.com/SesameAILabs/csm)** [![GitHub_Stars](https://img.shields.io/github/stars/SesameAILabs/csm?style=social&color=white)](https://github.com/SesameAILabs/csm/stargazers)  
   **Conversational Speech Model with Long-Horizon Context** • Apache-2.0 Licensed  
   Built for natural human-like pacing, audiobook generation, and seamless dialogue continuity across extended context windows.
 
-- **[PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)** [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social&color=white)](https://github.com/PaddlePaddle/PaddleSpeech/stargazers)  
+- **[PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)** [![GitHub_Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social&color=white)](https://github.com/PaddlePaddle/PaddleSpeech/stargazers)  
   **Baidu's All-in-One Speech Toolkit** • Apache-2.0 Licensed  
   Production-grade framework providing TTS, ASR, translation, and audio classification with pre-trained FastSpeech2 and VITS models.
 
-- **[Piper](https://github.com/rhasspy/piper)** [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
+- **[Piper](https://github.com/rhasspy/piper)** [![GitHub_Stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
   **Fast, Local Neural TTS for Raspberry Pi & Edge** • MIT Licensed  
   Optimized for home automation (Home Assistant) and privacy-first local hardware. Models average ~60MB and run up to **10x faster than real-time on CPU**.
 
-- **[ESPnet](https://github.com/espnet/espnet)** [![GitHub stars](https://img.shields.io/github/stars/espnet/espnet?style=social&color=white)](https://github.com/espnet/espnet/stargazers)  
+- **[ESPnet](https://github.com/espnet/espnet)** [![GitHub_Stars](https://img.shields.io/github/stars/espnet/espnet?style=social&color=white)](https://github.com/espnet/espnet/stargazers)  
   **End-to-End Speech Processing Toolkit** • Apache-2.0 Licensed  
   Research-grade toolkit supporting Kaldi/PyTorch backends for ASR, TTS, speech translation, and neural vocoder experimentations.
 
-- **[Kokoro-82M](https://github.com/hexgrad/kokoro)** [![GitHub stars](https://img.shields.io/github/stars/hexgrad/kokoro?style=social&color=white)](https://github.com/hexgrad/kokoro/stargazers)  
+- **[Kokoro-82M](https://github.com/hexgrad/kokoro)** [![GitHub_Stars](https://img.shields.io/github/stars/hexgrad/kokoro?style=social&color=white)](https://github.com/hexgrad/kokoro/stargazers)  
   **Best Quality-to-Size Ratio Open-Source TTS** • Apache-2.0 Licensed  
   **Only 82 Million parameters**. Ranked **#1 on TTS-Arena** for speed vs. MOS quality ratio. Generates studio audio nearly **100x faster than real-time on GPU**. Supports EN, JP, ZH, KO, FR, DE, IT, PT, ES, HI, RU.
 
-- **[EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** [![GitHub stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social&color=white)](https://github.com/netease-youdao/EmotiVoice/stargazers)  
+- **[EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** [![GitHub_Stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social&color=white)](https://github.com/netease-youdao/EmotiVoice/stargazers)  
   **NetEase Emotional TTS Engine** • Apache-2.0 Licensed  
   Supports multi-voice synthesis with promptable emotional states (happy, angry, sad, fearful, neutral) in English and Chinese.
 
-- **[MeloTTS](https://github.com/myshell-ai/MeloTTS)** [![GitHub stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS?style=social&color=white)](https://github.com/myshell-ai/MeloTTS/stargazers)  
+- **[MeloTTS](https://github.com/myshell-ai/MeloTTS)** [![GitHub_Stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS?style=social&color=white)](https://github.com/myshell-ai/MeloTTS/stargazers)  
   **Real-Time CPU Multilingual TTS Engine** • MIT Licensed  
   Developed by MyShell. High-speed inference for English (US, UK, India, Australia), Spanish, French, Chinese, Japanese, and Korean on low-power CPUs.
 
-- **[Zonos](https://github.com/Zyphra/Zonos)** [![GitHub stars](https://img.shields.io/github/stars/Zyphra/Zonos?style=social&color=white)](https://github.com/Zyphra/Zonos/stargazers)  
+- **[Zonos](https://github.com/Zyphra/Zonos)** [![GitHub_Stars](https://img.shields.io/github/stars/Zyphra/Zonos?style=social&color=white)](https://github.com/Zyphra/Zonos/stargazers)  
   **Expressive Voice & Speech Architecture** • Apache-2.0 Licensed  
   Zyphra's flagship open-source TTS model with expressive control over speech rates, pitch, and voice cloning dynamics.
 
-- **[Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)** [![GitHub stars](https://img.shields.io/github/stars/canopyai/Orpheus-TTS?style=social&color=white)](https://github.com/canopyai/Orpheus-TTS/stargazers)  
+- **[Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)** [![GitHub_Stars](https://img.shields.io/github/stars/canopyai/Orpheus-TTS?style=social&color=white)](https://github.com/canopyai/Orpheus-TTS/stargazers)  
   **Llama 3.2 Based Emotional Speech Synthesizer** • Apache-2.0 Licensed  
   Employs SNAC audio tokens for high-fidelity audio synthesis, interpreting natural language emotion tags inside prompts.
 
-- **[Mimic 3](https://github.com/MycroftAI/mimic3)** [![GitHub stars](https://img.shields.io/github/stars/MycroftAI/mimic3?style=social&color=white)](https://github.com/MycroftAI/mimic3/stargazers)  
+- **[Mimic 3](https://github.com/MycroftAI/mimic3)** [![GitHub_Stars](https://img.shields.io/github/stars/MycroftAI/mimic3?style=social&color=white)](https://github.com/MycroftAI/mimic3/stargazers)  
   **Privacy-Friendly Local Neural TTS Engine** • AGPL-3.0 Licensed  
   Built for open-source smart assistants (Mycroft, OVOS). Completely offline operation for embedded single-board computers.
 
